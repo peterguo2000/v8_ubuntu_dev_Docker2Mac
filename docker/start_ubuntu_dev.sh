@@ -1,0 +1,1 @@
+docker run -v /Users/pguo/work/codes/private_testing/node_learning/v8:/root/v8 -v /Users/pguo/work/codes/private_testing/node_learning/depot_tools:/root/depot_tools -v /Users/pguo/work/codes/private_testing/node_learning/v8_app:/root/v8_app -t -i --name ubuntu_instance ubuntu_dev /bin/bash
